@@ -1,0 +1,6 @@
+{
+  "appId": "com.catrobat.converted",
+  "appName": "CatroGame",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
